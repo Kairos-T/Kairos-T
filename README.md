@@ -19,6 +19,6 @@ Here are some of the projects that I have worked on:
 - [Network Scanner](https://github.com/Kairos-T/Network-Scanner): A network scanner tool scanning an IP address for open ports  to identify vulnerabilities or troubleshoot network connectivity issues
 
 ## Contact Me
-Feel free to reach out to me at [email](mailto:kairostay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kairostay).
+Feel free to reach out to me at [Email](mailto:kairostay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kairostay).
 
 <h5 class="animate__animated animate__heartBeat">Let's connect and learn from each other!</h5>
