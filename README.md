@@ -10,7 +10,7 @@ Here are some of the skills that I have developed:
 - Python programming 
 - Familiar with network security fundamentals
 
-<h3 class>I'm always looking to expand my skill set and learn new things!</h3>
+<h3 class>I'm constantly looking to gain new knowledge and sharpen my skills!</h3>
 
 ## Projects
 Here are some of the projects that I have worked on:
