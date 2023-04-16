@@ -4,7 +4,7 @@
 I'm a current Year 1 Cybersecurity & Digital Forensics diploma student from Ngee Ann Polytechnic, and an aspiring cybersecurity professional. With a strong interest in this field, I am passionate in gaining a myriad of knowledge about it. 
 
 ## Skills and Certifications
-Here are some of the skills that I have developed:
+Here are some of my skills and certifications:
 - Python programming 
 - Completed Cisco's Cybersecurity Essentials course
 - Completed Cisco's Networking Essentials course
