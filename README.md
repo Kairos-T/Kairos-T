@@ -18,6 +18,8 @@ Here are some of the projects that I have worked on:
 - [Hash Cracker](https://github.com/Kairos-T/Hash-Cracker): A password hashes decryptor uutilising a dictionary attack 
 - [Network Scanner](https://github.com/Kairos-T/Network-Scanner): A network scanner tool scanning an IP address for open ports  to identify vulnerabilities or troubleshoot network connectivity issues
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+
 ## Contact Me
 Feel free to reach out to me at [Email](mailto:kairostay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kairostay).
 
