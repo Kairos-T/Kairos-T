@@ -12,9 +12,10 @@ Here are some of my skills and certifications:
 
 ## Projects
 Here are some of the projects that I have worked on:
-- [Basic Malware Checker](https://github.com/Kairos-T/Basic-Malware-Checker): A malware detector utilising ClamAV libary to scan a specific file for malware
-- [Hash Cracker](https://github.com/Kairos-T/Hash-Cracker): A password hashes decryptor uutilising a dictionary attack 
-- [Network Scanner](https://github.com/Kairos-T/Network-Scanner): A network scanner tool scanning an IP address for open ports  to identify vulnerabilities or troubleshoot network connectivity issues
+
+[![Basic Malware Checker](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Basic-Malware-Checker&theme=dark&border_color=565656)](https://github.com/Kairos-T/Basic-Malware-Checker)
+[![Hash Cracker](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Hash-Cracker&theme=dark&border_color=565656)](https://github.com/Kairos-T/Hash-Cracker)
+[![Network Scanner](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Network-Scanner&theme=dark&border_color=565656)](https://github.com/Kairos-T/Network-Scanner)
 
 ## Contact Me
 Feel free to reach out to me at [Email](mailto:kairostay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kairostay).
