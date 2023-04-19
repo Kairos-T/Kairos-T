@@ -16,7 +16,7 @@ Here are some of the projects that I have worked on:
 [![Basic Malware Checker](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Basic-Malware-Checker&theme=dark&border_color=565656)](https://github.com/Kairos-T/Basic-Malware-Checker)
 [![Hash Cracker](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Hash-Cracker&theme=dark&border_color=565656)](https://github.com/Kairos-T/Hash-Cracker)
 [![Network Scanner](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Network-Scanner&theme=dark&border_color=565656)](https://github.com/Kairos-T/Network-Scanner)
-[![Secure Password Generator](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Secure-Password-Generator&theme=dark&border_color=565656)](https://github.com/Kairos-T/Secure-Password-Generator))
+[![Secure Password Generator](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Secure-Password-Generator&theme=dark&border_color=565656)](https://github.com/Kairos-T/Secure-Password-Generator)
 
 ## Contact Me
 Feel free to reach out to me at [Email](mailto:kairostay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kairostay).
