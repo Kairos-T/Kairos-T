@@ -18,9 +18,7 @@ Here are some of the projects that I have worked on:
 [![Secure Password Generator](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Secure-Password-Generator&theme=dark&border_color=565656)](https://github.com/Kairos-T/Secure-Password-Generator)
 
 ## Contact Me
-Feel free to reach out to me at [Email](mailto:kairostay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kairostay).
-
-<h5 class="animate__animated animate__heartBeat">Let's connect and learn from each other!</h5>
+Feel free to reach out to me at my [Email](mailto:kairostay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kairostay).
 
 ##
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kairos-t&count_private=true&theme=tokyonight&showicons=true)]()
