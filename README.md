@@ -1,4 +1,4 @@
-<h1 class>Welcome to Kairos' GitHub!</h1>
+<h1 class>Hi! I'm Kairos :]</h1>
 
 ## About Me
 I'm a current Year 1 Cybersecurity & Digital Forensics diploma student from Ngee Ann Polytechnic, and an aspiring cybersecurity professional. With a strong interest in this field, I am passionate in gaining a myriad of knowledge about it. 
@@ -6,9 +6,9 @@ I'm a current Year 1 Cybersecurity & Digital Forensics diploma student from Ngee
 ## Skills and Certifications
 Here are some of my skills and certifications:
 - Python programming 
-- Completed Cisco's Cybersecurity Essentials course
-- Completed Cisco's Networking Essentials course
-- Familiar with network security fundamentals
+- Scientific Research & Communications
+- Cisco's Cybersecurity Essentials course
+- Cisco's Networking Essentials course
 
 ## Projects
 Here are some of the projects that I have worked on:
