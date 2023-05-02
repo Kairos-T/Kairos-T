@@ -5,7 +5,7 @@ I'm a current Year 1 Cybersecurity & Digital Forensics diploma student from Ngee
 
 ## Skills and Certifications
 Here are some of my skills and certifications:
-- Python programming 
+- Python Programming 
 - Scientific Research & Communications
 - Cisco's Cybersecurity Essentials course
 - Cisco's Networking Essentials course
