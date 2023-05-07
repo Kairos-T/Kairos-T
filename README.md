@@ -31,7 +31,7 @@ Here are some of the projects that I have worked on:
 
 ### `Natural Language Processing (NLP)`
 
-[![CGS-Internship-NTLK-Sentiment-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=CGS-Internship-NTLK-Sentiment-Analysis&theme=dark&border_color=565656)](https://github.com/Kairos-T/CGS-Internship-NTLK-Sentiment-Analysis))
+[![CGS-Internship-NTLK-Sentiment-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=CGS-Internship-NTLK-Sentiment-Analysis&theme=dark&border_color=565656)](https://github.com/Kairos-T/CGS-Internship-NTLK-Sentiment-Analysis)
 
 ### `CTFs`
 [![Cyber-100-PSB-Academy-CTF-Cheatsheet](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Cyber-100-PSB-Academy-CTF-Cheatsheet&theme=dark&border_color=565656)](https://github.com/Kairos-T/Cyber-100-PSB-Academy-CTF-Cheatsheet)
