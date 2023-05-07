@@ -35,6 +35,7 @@ Here are some of the projects that I have worked on:
 
 ### `CTFs`
 [![Cyber-100-PSB-Academy-CTF-Cheatsheet](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Cyber-100-PSB-Academy-CTF-Cheatsheet&theme=dark&border_color=565656)](https://github.com/Kairos-T/Cyber-100-PSB-Academy-CTF-Cheatsheet)
+[![Magnet-User-Summit-2023-CTF](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Magnet-User-Summit-2023-CTF&theme=dark&border_color=565656)](https://github.com/Kairos-T/Magnet-User-Summit-2023-CTF)
 
 ## Contact Me
 Feel free to reach out to me at my [Email](mailto:kairostay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kairostay).
