@@ -9,6 +9,7 @@ Here are some of my skills and certifications:
 - Scientific Research & Communications
 - Cisco's Cybersecurity Essentials course
 - Cisco's Networking Essentials course
+- Cisco's Python Essentials 1 course
 
 ## Projects
 Here are some of the projects that I have worked on:
