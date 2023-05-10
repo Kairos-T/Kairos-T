@@ -40,7 +40,7 @@ Here are some of the projects that I have worked on:
 [![Magnet-User-Summit-2023-CTF](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Magnet-User-Summit-2023-CTF&theme=dark&border_color=565656)](https://github.com/Kairos-T/Magnet-User-Summit-2023-CTF)
 
 ## Contact Me
-Feel free to reach out to me at my [Email](mailto:kairostay@gmail.com?subject=Hi! I'm reaching out from GitHub.) or connect with me on [LinkedIn](https://www.linkedin.com/in/kairostay).
+Feel free to reach out to me at my [Email](mailto:kairostay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kairostay).
 
 ##
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kairos-t&count_private=true&theme=tokyonight&showicons=true)]()
