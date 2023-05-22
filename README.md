@@ -43,5 +43,6 @@ Here are some of the projects that I have worked on:
 Feel free to reach out to me at my [Email](mailto:kairostay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kairostay).
 
 ##
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kairos-t&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kairos-t&langs_count=5&theme=tokyonight)]()
+
+| <a href="https://github.com/kairos-t/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kairos-t&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Kairos' github stats" /></a> | <a href="https://github.com/kairos-t/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairos-t&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
