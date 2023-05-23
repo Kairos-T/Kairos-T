@@ -1,9 +1,9 @@
-<h1 class>root@kairos ~ </h1>
+<h1 class>root@kairos: ~ </h1>
 
 ## $ whoami
 I'm a current Year 1 Cybersecurity & Digital Forensics diploma student from Ngee Ann Polytechnic, and an aspiring cybersecurity professional. With a strong interest in this field, I am passionate in gaining a myriad of knowledge about it. 
 
-## Skills and Certifications
+## $ ls Skills & Certifications
 Here are some of my skills and certifications:
 - Python Programming 
 - Scientific Research & Communications
@@ -11,7 +11,7 @@ Here are some of my skills and certifications:
 - Cisco's Networking Essentials course
 - Cisco's Python Essentials 1 course
 
-## Projects
+## $ ls Projects
 Here are some of the projects that I have worked on:
 
 
@@ -39,10 +39,10 @@ Here are some of the projects that I have worked on:
 [![Cyber-100-PSB-Academy-CTF-Cheatsheet](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Cyber-100-PSB-Academy-CTF-Cheatsheet&theme=dark&border_color=565656)](https://github.com/Kairos-T/Cyber-100-PSB-Academy-CTF-Cheatsheet)
 [![Magnet-User-Summit-2023-CTF](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Magnet-User-Summit-2023-CTF&theme=dark&border_color=565656)](https://github.com/Kairos-T/Magnet-User-Summit-2023-CTF)
 
-## Contact Me
+## $ ls Contact
 Feel free to reach out to me at my [Email](mailto:kairostay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kairostay).
 
-##
+## $ ls stats
 
 | <a href="https://github.com/kairos-t/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kairos-t&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Kairos' github stats" /></a> | <a href="https://github.com/kairos-t/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairos-t&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
