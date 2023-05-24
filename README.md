@@ -11,7 +11,7 @@ Here are some of my skills and certifications:
 - Cisco's Networking Essentials course
 - Cisco's Python Essentials 1 course
 
-## $ ls Projects
+## $ ls projects
 Here are some of the projects that I have worked on:
 
 
