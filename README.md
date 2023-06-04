@@ -5,11 +5,16 @@ I'm a current Year 1 Cybersecurity & Digital Forensics diploma student from Ngee
 
 ## $ ls skills & certifications
 Here are some of my skills and certifications:
+Skills:
 - Python Programming 
+- Web Development (HTML, CSS, JS, Bootstrap)
+- Digital Forensics (Android Forensics - ALEAPP, Magnet AXIOM)
 - Scientific Research & Communications
+Certifications:
 - Cisco's Cybersecurity Essentials course
 - Cisco's Networking Essentials course
 - Cisco's Python Essentials 1 course
+- AISG's Literacy in AI
 
 ## $ ls projects
 Here are some of the projects that I have worked on:
