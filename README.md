@@ -9,7 +9,7 @@ Here are some of my skills and certifications:
 Skills:
 - Python Programming 
 - Web Development (HTML, CSS, JS, Bootstrap)
-- Digital Forensics (Mobile Forensics - iLEAPP/ALEAPP, Magnet AXIOM)
+- Digital Forensics (Mobile Forensics - iLEAPP/ALEAPP, Magnet AXIOM, Autopsy)
 - Scientific Research & Communications
 
 Certifications:
