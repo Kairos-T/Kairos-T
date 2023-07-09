@@ -23,6 +23,7 @@ Here are some of the projects that I have worked on:
 
 
 ### `Cybersecurity`
+[![Malware Analysis Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Malware-Analysis-Toolkit&theme=dark&border_color=565656)](https://github.com/Kairos-T/Malware-Analysis-Toolkit) 
 [![Basic Malware Checker](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Basic-Malware-Checker&theme=dark&border_color=565656)](https://github.com/Kairos-T/Basic-Malware-Checker) 
 [![Password Brute Force](https://github-readme-stats.vercel.app/api/pin/?username=Kairos-T&repo=Password-Brute-Force&theme=dark&border_color=565656)](https://github.com/Kairos-T/Password-Brute-Force)
 
