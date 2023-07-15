@@ -52,5 +52,5 @@ Feel free to reach out to me at my [Email](mailto:contact@kairostay.com) or conn
 
 ## $ ls stats
 
-| [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kairos-t&count_private=true&theme=dark&showicons=true)]() | [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kairos-t&langs_count=7&theme=dark)]() |
+| [![My GitHub Stats](https://github-readme-alpha-five.vercel.app/api/?username=kairos-t&count_private=true&theme=dark&showicons=true)]() | [![My GitHub Language Stats](https://github-readme-alpha-five.vercel.app/api/top-langs/?username=kairos-t&langs_count=7&theme=dark)]() |
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
