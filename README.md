@@ -20,7 +20,7 @@ Certifications:
 
 ## $ ls projects
 Here are some of the projects that I have worked on:
-<h6>P.S: If the icons for the repos/stats images do not load, pls refresh this page! :D </h6>
+<h6>P.S: If the icons for the repos/stats images do not load properly, pls refresh this page! :D </h6>
 
 
 ### `Cybersecurity`
