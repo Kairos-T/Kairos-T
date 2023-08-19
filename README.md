@@ -7,8 +7,8 @@ I'm a current Year 1 Cybersecurity & Digital Forensics diploma student from Ngee
 Here are some of my skills and certifications:
 
 Skills:
-- Python, Ruby Programming 
-- Web Development (HTML, CSS, JS, Bootstrap)
+- Python, Ruby, Bash
+- Web Development (HTML, CSS, JS, Bootstrap, ReactJS)
 - Digital Forensics (Mobile Forensics - iLEAPP/ALEAPP, Magnet AXIOM, Autopsy)
 - Scientific Research & Communications
 
