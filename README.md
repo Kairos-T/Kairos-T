@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
-</div>
 
 
 # root@kairos: ~
@@ -23,17 +22,25 @@ I'm a current Year 1 Cybersecurity & Digital Forensics diploma student from Ngee
 ## $ ls skills & certifications
 Here are some of my skills and certifications:
 
-Skills:
-- Python, Ruby, Bash
-- Web Development (HTML, CSS, JS, Bootstrap, ReactJS)
-- Digital Forensics (Mobile Forensics - iLEAPP/ALEAPP, Magnet AXIOM, Autopsy)
-- Scientific Research & Communications
+Skills/Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+</div>
 
+<br><br>
 Certifications:
-- Cisco's Cybersecurity Essentials course
-- Cisco's Networking Essentials course
-- Cisco's Python Essentials 1 course
-- AISG's Literacy in AI
+<br>Cisco's Cybersecurity Essentials course
+<br>Cisco's Networking Essentials course
+<br>Cisco's Python Essentials 1 course
+<br>AISG's Literacy in AI
 
 ## $ ls projects
 Here are some of the projects that I have worked on:
@@ -64,9 +71,6 @@ Here are some of the projects that I have worked on:
 ### `CTFs`
 [![Cyber-100-PSB-Academy-CTF-Cheatsheet](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=Cyber-100-PSB-Academy-CTF-Cheatsheet&theme=dark&border_color=565656)](https://github.com/Kairos-T/Cyber-100-PSB-Academy-CTF-Cheatsheet)
 [![Magnet-User-Summit-2023-CTF](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=Magnet-User-Summit-2023-CTF&theme=dark&border_color=565656)](https://github.com/Kairos-T/Magnet-User-Summit-2023-CTF)
-
-## $ ls contact
-Feel free to reach out to me at my [Email](mailto:contact@kairostay.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kairostay).
 
 ## $ ls stats
 
