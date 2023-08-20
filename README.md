@@ -17,7 +17,7 @@
 # root@kairos: ~
 
 ## $ whoami
-I'm a current Year 1 Cybersecurity & Digital Forensics diploma student from Ngee Ann Polytechnic, and an aspiring cybersecurity researcher. With a strong interest in this field, I am passionate in gaining a myriad of knowledge about it. 
+Hello! I'm a current Year 1 Cybersecurity & Digital Forensics diploma student, and an aspiring cybersecurity researcher. With a strong interest in cybersecurity and AI, I am passionate in gaining a myriad of knowledge about it. 
 
 ## $ ls skills & certifications
 Here are some of my skills and certifications:
