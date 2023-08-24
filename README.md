@@ -37,9 +37,10 @@ Skills/Tools:
 
 <br><br>
 Certifications:
-<br>Cisco's Cybersecurity Essentials course
-<br>Cisco's Networking Essentials course
-<br>Cisco's Python Essentials 1 course
+<br>Cisco's Linux Essentials
+<br>Cisco's Cybersecurity Essentials
+<br>Cisco's Networking Essentials
+<br>Cisco's Python Essentials 1
 <br>AISG's Literacy in AI
 
 ## $ ls projects
