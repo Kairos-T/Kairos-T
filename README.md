@@ -1,14 +1,14 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx1N2FlM3A5MW9lMW15a212MGJxcmZiaXVmbml1ZW1sdDM5NGs0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kairostay/">
+  <a href="https://www.linkedin.com/in/kairoshestiatay/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
   <a href="https://www.kairostay.com">
     <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=readme&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="mailto:contat@kairostay.com">
+  <a href="mailto:contact@kairostay.com">
     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
