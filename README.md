@@ -58,8 +58,6 @@ Here are some of the projects that I have worked on:
 ### `Cryptography`
 [![Hash Cracker](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=Hash-Cracker&theme=dark&border_color=565656)](https://github.com/Kairos-T/Hash-Cracker)
 [![AES-RSA-File-Encryptor](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=AES-RSA-File-Encryptor&theme=dark&border_color=565656)](https://github.com/Kairos-T/AES-RSA-File-Encryptor)
-[![Cryptography-Toolbox](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=Cryptography-Toolbox&theme=dark&border_color=565656)](https://github.com/Kairos-T/Cryptography-Toolbox)
-[![Secure Password Generator](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=Secure-Password-Generator&theme=dark&border_color=565656)](https://github.com/Kairos-T/Secure-Password-Generator)
 
 
 ### `Natural Language Processing (NLP)`
