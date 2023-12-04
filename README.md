@@ -14,7 +14,7 @@
 </div>
 
 
-# root@kairos: ~
+# kairos@github: ~
 
 ## $ whoami
 Hello! I'm a current Year 1 Cybersecurity & Digital Forensics diploma student, and an aspiring cybersecurity researcher. With a strong interest in cybersecurity and AI, I am passionate in gaining a myriad of knowledge about it. 
