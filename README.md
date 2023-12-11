@@ -52,14 +52,9 @@ Here are some of the projects that I have worked on:
 
 ### `Cybersecurity`
 [![Basic Malware Checker](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=Basic-Malware-Checker&theme=dark&border_color=565656)](https://github.com/Kairos-T/Basic-Malware-Checker) 
-[![Network Scanner](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=Network-Scanner&theme=dark&border_color=565656)](https://github.com/Kairos-T/Network-Scanner)
-
 
 ### `Cryptography`
 [![BB84 Simulation](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=bb84-simulation&theme=dark&border_color=565656)](https://github.com/Kairos-T/bb84-simulation)
-[![Hash Cracker](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=Hash-Cracker&theme=dark&border_color=565656)](https://github.com/Kairos-T/Hash-Cracker)
-[![AES-RSA-File-Encryptor](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=AES-RSA-File-Encryptor&theme=dark&border_color=565656)](https://github.com/Kairos-T/AES-RSA-File-Encryptor)
-
 
 ### `Natural Language Processing (NLP)`
 [![CGS-Internship-NTLK-Sentiment-Analysis](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=CGS-Internship-NTLK-Sentiment-Analysis&theme=dark&border_color=565656)](https://github.com/Kairos-T/CGS-Internship-NTLK-Sentiment-Analysis)
