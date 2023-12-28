@@ -17,11 +17,9 @@
 # kairos@github: ~
 
 ## $ whoami
-Hello! I'm a current Year 1 Cybersecurity & Digital Forensics diploma student, and an aspiring cybersecurity researcher. With a strong interest in cybersecurity and AI, I am passionate in gaining a myriad of knowledge about it. 
+Hello! I'm Kairos, a current Year 1 Cybersecurity student, and an aspiring cybersecurity researcher. I possess a strong interest in cybersecurity, quantum computing, programming and AI, and am passionate in gaining a myriad of knowledge about it. 
 
-## $ ls skills & certifications
-Here are some of my skills and certifications:
-
+## $ ls skills
 Skills/Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -36,14 +34,6 @@ Skills/Tools:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
 
 </div>
-
-<br><br>
-Certifications:
-<br>Cisco's Linux Essentials
-<br>Cisco's Cybersecurity Essentials
-<br>Cisco's Networking Essentials
-<br>Cisco's Python Essentials 1
-<br>AISG's Literacy in AI
 
 ## $ ls projects
 Here are some of the projects that I have worked on:
