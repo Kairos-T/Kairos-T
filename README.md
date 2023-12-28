@@ -41,7 +41,7 @@ Here are some of the more notable projects that I have worked on:
 <h6>P.S: If the icons for the repos/stats images do not load properly, pls refresh this page! :D </h6>
 
 [![Quantum Random Number Generator](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=QRNG&theme=dark&border_color=565656)](https://github.com/Kairos-T/QRNG) 
-[![BB84 Simulator](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=bb84-simulation&theme=dark&border_color=565656)](https://github.com/Kairos-T/bb84-simulation)
+[![BB84 Simulator](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=bb84-simulator&theme=dark&border_color=565656)](https://github.com/Kairos-T/BB84-Simulator)
 [![Basic Malware Checker](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=Basic-Malware-Checker&theme=dark&border_color=565656)](https://github.com/Kairos-T/Basic-Malware-Checker) 
 [![NTLK Sentiment Analyser](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=CGS-Internship-NTLK-Sentiment-Analysis&theme=dark&border_color=565656)](https://github.com/Kairos-T/CGS-Internship-NTLK-Sentiment-Analysis)
 
