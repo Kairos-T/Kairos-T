@@ -17,7 +17,7 @@
 # kairos@github: ~
 
 ## $ whoami
-Hello! I'm Kairos, a current Year 1 Cybersecurity student, and an aspiring cybersecurity researcher. I possess a strong interest in cybersecurity, quantum computing, programming and AI, and am passionate in gaining a myriad of knowledge about it. 
+Hello! I'm Kairos, a current Year 2 Cybersecurity student :D 
 
 ## $ ls skills
 Skills/Tools:
