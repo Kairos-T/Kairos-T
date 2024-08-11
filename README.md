@@ -36,16 +36,6 @@ Skills/Tools:
 
 </div>
 
-## $ ls projects
-Here are some of the more notable projects that I have worked on:
-<h6>P.S: If the icons for the repos/stats images do not load properly, pls refresh this page! :D </h6>
-
-[![Quantum Random Number Generator](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=QRNG&theme=dark&border_color=565656)](https://github.com/Kairos-T/QRNG) 
-[![BB84 Simulator](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=bb84-simulator&theme=dark&border_color=565656)](https://github.com/Kairos-T/BB84-Simulator)
-[![Basic Malware Checker](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=Basic-Malware-Checker&theme=dark&border_color=565656)](https://github.com/Kairos-T/Basic-Malware-Checker) 
-[![NTLK Sentiment Analyser](https://github-readme-alpha-five.vercel.app/api/pin/?username=Kairos-T&repo=CGS-Internship-NTLK-Sentiment-Analysis&theme=dark&border_color=565656)](https://github.com/Kairos-T/CGS-Internship-NTLK-Sentiment-Analysis)
-
-
 ## $ ls stats
 
 | [![My GitHub Stats](https://github-readme-alpha-five.vercel.app/api/?username=kairos-t&rank_icon=github&count_private=true&theme=dark&showicons=true)](https://github-readme-alpha-five.vercel.app/api/?username=kairos-t&rank_icon=github&count_private=true&theme=dark&showicons=true) | [![My GitHub Language Stats](https://github-readme-alpha-five.vercel.app/api/top-langs/?username=kairos-t&layout=compact&langs_count=8&theme=dark)](https://github-readme-alpha-five.vercel.app/api/top-langs/?username=kairos-t&layout=compact&langs_count=8&theme=dark) |
