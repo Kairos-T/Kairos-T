@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx1N2FlM3A5MW9lMW15a212MGJxcmZiaXVmbml1ZW1sdDM5NGs0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kairoshestiatay/">
+  <a href="https://www.linkedin.com/in/kairostay/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
@@ -17,7 +17,7 @@
 # kairos@github: ~
 
 ## $ whoami
-Hello! I'm Kairos, a current Year 2 Cybersecurity student :D 
+Hello! I'm Kairos, a current Year 3 Cybersecurity student :D 
 
 ## $ ls skills
 Skills/Tools:
