@@ -1,7 +1,7 @@
 # kairos@github: ~
 
 ## $ whoami
-Hi! I'm Kairos, an incoming Y1 student @ NUS InfoSec. I've done a lot of random stuff, feel free to check out my [portfolio](https://www.kairostay.com), [blog](https://blog.kairostay.com) or my [resume](https://www.kairostay.com/files/resume/Resume.pdf) (pls hire me).
+Hi! I'm Kairos, a Y1 student @ NUS studying InfoSec. I've done a lot of random stuff, feel free to check out my [portfolio](https://www.kairostay.com), [blog](https://blog.kairostay.com) or my [resume](https://www.kairostay.com/files/resume/Resume.pdf) (pls hire me).
 
 Contact me at [contact[at]kairostay[dot]com](mailto:contact[at]kairostay[dot]com)!
 
